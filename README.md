@@ -30,11 +30,6 @@ Se tiene que descargar el repositorio para poder ejecutar los scrips en matlab.
 
 
 
-Configurar una IP estática en el dispositivo que se utilizara matlab.
-Nos conectamos a la red que se esta conectando el TurtleBot2
-
-Enseguida ir a la terminal y ejecutar ipconfig
-
 
 <p align='center'>
     <img src=./IMÁGENES/j1.png alt="drawing" width="600"/>

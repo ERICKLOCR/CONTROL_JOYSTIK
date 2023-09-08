@@ -16,10 +16,15 @@
 
 
 ## Comentarios generales
-Para poder crear la conexión entre la computadora con Matlab(Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian si es que no se tiene configurada una IP estática a lo que no deja conectar en la siguiente conexión que se desea establecer. Primeramente se configurarán una IP estática tanto para la JETSON como para la computadora.
+Para poder controlar al TurtleBot con el control de Joystick tenemos que tener configurada la parte del Autosatart la cual inicializa al TurtleBot al encender la Jetson,
+
+Se tiene que tener configurada la parte de comunicacion mediante SSH entre computadora y Jetson.
+
+Se tiene que descargar el repositorio para poder ejecutar los scrips en matlab.
 
    
-## Configuración de IP estática 
+## Configuración de 
+
 
 ### En la computadora con Windows
 

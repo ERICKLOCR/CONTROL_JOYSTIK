@@ -36,6 +36,7 @@ git clone httt
 ## Configuración del Joystick
 
 Conectar el Joystick a la computadora y para saber que puerto le asigna la computadora, puede ser js0,js1,jsi
+
 ```
 ls /dev/input/
 ```
@@ -79,9 +80,11 @@ rosparam set joy_node/dev "/dev/input/js0"
 Nos dirigimos a la workspace donde está el script de joy
 <p align='center'>
    En nuestro caso 
+   
    ```
    cd erick_swp/
    ```
+
  Actualizamos la dirección de trabajo
 
   ```

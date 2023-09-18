@@ -35,16 +35,17 @@ git clone httt
    
 ## Configuración del Joystick
 
-Conectar el Joystick a la computadora y para saber que puerto le asigna la computadora, puede ser js0,js1,jsi
+Conectar el Joystick a la computadora y para saber que puerto le asigna la computadora, ejecutar el siguiente comando
 
 ```
 ls /dev/input/
 ```
+
 <p align='center'>
     <img src=./IMÁGENES/j1.png alt="drawing" width="600"/>
 </p>
 
-En nuestro caso nos asignó js0 
+Puede ser js0,js1,jsi. En nuestro caso nos asignó js0 
 ```
 sudo jstest /dev/input/js0
 ```

@@ -78,8 +78,8 @@ rosparam set joy_node/dev "/dev/input/js0"
 ## 2 Terminal
 
 Nos dirigimos a la workspace donde está el script de joy
-<p align='center'>
-   En nuestro caso 
+
+En nuestro caso 
    
    ```
    cd erick_swp/
@@ -99,7 +99,7 @@ Finalmente ejecutamos la conexion ssh
  ```
 ssh robotica@192.168.43.178
  ```
-   
+<p align='center'>
     <img src=./IMÁGENES/j4.png alt="drawing" width="600"/>
 </p>
 

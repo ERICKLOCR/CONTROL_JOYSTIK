@@ -8,9 +8,7 @@
 ## Tabla de Contenidos
 
 1. [Comentarios generales](#Comentarios-generales)
-2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
-    1. [Joy](#Joy)
-    2. [En la Jetson Nano](#En-la-Jetson-Nano)
+2. [Configuración del Joystick](#Configuración-del-Joystick)
 3. [Prueba de conexión](#Prueba-de-conexión)
 3. [Gráficos generados](#Gráficos-generados)
 

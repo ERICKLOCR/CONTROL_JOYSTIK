@@ -33,11 +33,7 @@ git clone httt
 
 
    
-## Configuración de 
-
-
-### En la computadora con Windows
-
+## Configuración del Joystick
 
 
 
@@ -58,5 +54,10 @@ git clone httt
 <p align='center'>
     <img src=./IMÁGENES/j4.png alt="drawing" width="600"/>
 </p>
+
+### En la computadora con Windows
+
+
+
 
 

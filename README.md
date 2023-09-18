@@ -103,6 +103,10 @@ ssh robotica@192.168.43.178
     <img src=./IMÁGENES/j4.png alt="drawing" width="600"/>
 </p>
 
+Si apagamos la conexión lo podéis hacer pagado la jetson ejecutando en terminal
+ ```
+ sudo poweroff
+ ```
 ### En la computadora con Windows
 
 

@@ -16,11 +16,23 @@
 
 
 ## Comentarios generales
-Para poder controlar al TurtleBot con el control de Joystick tenemos que tener configurada la parte del Autosatart la cual inicializa al TurtleBot al encender la Jetson,
+Para poder controlar al TurtleBot con el control de Joystick tenemos que tener configurada la parte del Autosatart la cual inicializa al TurtleBot al encender la Jetson, si aún no está configurado puedes ir al repositorio [AUTOSART](https://github.com/ERICKLOCR/AUTOSART)
 
-Se tiene que tener configurada la parte de comunicacion mediante SSH entre computadora y Jetson.
+Se tiene que tener configurada la parte de comunicación mediante SSH entre computadora y Jetson. Puedes encontrar los pasos en el repositorio [SSH](https://github.com/ERICKLOCR/AUTOSART)
 
 Se tiene que descargar el repositorio para poder ejecutar los scrips en matlab.
+Para ello dirigite en la carpeta donde desa clonar el repositorio copia la dirección y la terminal coloca
+
+```
+cd DIRECCIÓN EN LA QUE SE DESEA CLONAR
+```
+Y posteriormente 
+
+```
+git clone httt
+```
+
+
 
    
 ## Configuración de 

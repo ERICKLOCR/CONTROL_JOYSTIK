@@ -77,7 +77,7 @@ rosparam set joy_node/dev "/dev/input/js0"
 
 ## 2 Terminal
 
-Nos dirigimos a la workspace donde está el script de joy
+Nos dirigimos al workspace donde está el script de joy
 
 En nuestro caso 
    

@@ -10,7 +10,7 @@
 1. [Comentarios generales](#Comentarios-generales)
 2. [Configuración del Joystick](#Configuración-del-Joystick)
 3. [Prueba de conexión](#Prueba-de-conexión)
-3. [Gráficos generados](#Gráficos-generados)
+
 
 
 ## Comentarios generales

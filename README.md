@@ -51,6 +51,19 @@ sudo jstest /dev/input/js0
     <img src=./IMÁGENES/j2.png alt="drawing" width="600"/>
 </p>
 
+## Prueba de conexión
+
+```
+export ROS_MASTER_URI=http://TurtleBotIP:11311
+export ROS_IP=CompuIP 
+ssh robotica@TurtleBotIP
+```
+
+```
+export ROS_MASTER_URI=http://192.168.43.178:11311
+ export ROS_IP=192.168.43.188
+ssh robotica@192.168.43.178
+```
 
 <p align='center'>
     <img src=./IMÁGENES/j3.png alt="drawing" width="600"/>
